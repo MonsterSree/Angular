@@ -1,1 +1,1 @@
-# Angular practice project to level up skills
+Angular practice project to level up skills
