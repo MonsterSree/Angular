@@ -1,0 +1,3 @@
+<button class="btn btn-primary" (click)="onClicked()">Display Details</button>
+<p *ngIf="toogle">{{content}}</p>
+<div  *ngFor="let element of buttonClicks"  [ngStyle]="{backgroundColor:element>=5 ? 'blue':'transparent'}" [ngClass]="{'white-text':element>=5}">{{element}}</div>
