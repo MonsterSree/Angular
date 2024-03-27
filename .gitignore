@@ -1,4 +1,4 @@
 *.angular
 *.vscode
-*node_modules
-*default-practice-projects
+node_modules
+default-practice-projects
